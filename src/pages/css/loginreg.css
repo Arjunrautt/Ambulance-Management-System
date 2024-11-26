@@ -1,0 +1,45 @@
+/* Neon Gradient Background */
+.neon-background {
+    background: linear-gradient(45deg, #ff00ff, #00ffff); /* Neon gradient effect */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  /* Card Styling */
+  .card-style {
+    width: 80%;
+    margin: auto;
+    height: 80%;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* Soft shadow for modern look */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Typography Style for "Geek-Shop" */
+  .typography-style {
+    font-family: 'Dancing Script', cursive; /* Cursive, feminine, and cute style */
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ffffff;
+  }
+  
+  /* Tabs Style */
+  .tab-style {
+    text-transform: none;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif; /* Formal, modern font */
+    font-size: 1.1rem;
+    color: #ffffff;
+  }
+  
+  /* Active Tab Indicator Style */
+  .tab-indicator {
+    background-color: #ff00ff; /* Neon pink indicator for active tab */
+  }
+  
